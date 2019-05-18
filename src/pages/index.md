@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to my website
-image: /img/home-jumbotron.jpg
+image: /img/kartinki-8-marta-smeshnye-s-kotami-3.png
 heading: What is this website for?
 subheading: Work in progress. Please come back later.
 mainpitch:
